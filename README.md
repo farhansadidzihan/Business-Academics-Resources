@@ -19,3 +19,6 @@
 ## Internships
 
 
+
+## Scholarships
+https://www.aflsp.kyoto-u.ac.jp
