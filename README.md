@@ -22,3 +22,8 @@
 
 ## Scholarships
 https://www.aflsp.kyoto-u.ac.jp
+
+
+
+## Opportunities
+https://glorno.com/
