@@ -28,6 +28,8 @@ https://opportunitiespedia.com
 
 https://www.standoutsearch.com/
 
+https://www.freeconferencealerts.com/
+
 https://atlasopportunities.com/opportunities
 
 https://globalyouthambassador.com/program/travelvolunteer_reg_fully_rg
