@@ -11,7 +11,10 @@ https://www.ucas.com/
 https://tetr.com/
 
 ### Scholarships
+
 https://www.aflsp.kyoto-u.ac.jp
+
+https://www.takemetojapan.com/english-uni-japan
 
 
 ### Opportunities
