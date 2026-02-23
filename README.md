@@ -1,22 +1,3 @@
-### University Applications
-
-https://www.commonapp.org/
-
-https://cssprofile.collegeboard.org/?navId=gf-css
-
-https://apply.mitadmissions.org/portal/apply
-
-https://www.ucas.com/
-
-https://tetr.com/
-
-### Scholarships
-
-https://www.aflsp.kyoto-u.ac.jp
-
-https://www.takemetojapan.com/english-uni-japan
-
-
 ### Opportunities
 
 https://www.snow.day/
