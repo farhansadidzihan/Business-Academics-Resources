@@ -109,6 +109,6 @@ https://globalyouthambassador.com/program/travelvolunteer_reg_fully_rg
 
 ### Dev
 
-[Kaggle](https://www.kaggle.com/farhansadidzihan) | [LeetCode](https://leetcode.com/u/farhansadidzihan/) | [GFG](https://www.geeksforgeeks.org/user/farhansadidzihan67/) | [Devpost](https://devpost.com/farhansadidzihan)
+[LeetCode](https://leetcode.com/u/farhansadidzihan/) | [GFG](https://www.geeksforgeeks.org/user/farhansadidzihan67/) | [Devpost](https://devpost.com/farhansadidzihan)
 
 ### Accelarators | Fellowships | Competitions | Summer Programs | Delegation | Internships
