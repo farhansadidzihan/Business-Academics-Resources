@@ -15,52 +15,52 @@ https://tetr.com/
 https://globalscholarships.com/scholarship-search/bachelors/full-funding/
 https://www.isdb.org/scholarships
 
-### Canada
+### 1. Canada
 
 https://future.utoronto.ca/pearson-scholarships
 
-### China (CSC or SGS-Shanghahi)
+### 2. China (CSC or SGS-Shanghahi)
 
 https://studyinchina.csc.edu.cn/
-
+9
 https://www.cuhk.edu.cn/en
 
-### Russia 
+### 3. Russia 
 
 https://education-in-russia.com/
 https://www.utmn.ru/en/study-with-us/admission/scholarships-and-grants/russian-government-scholarship/
 
 
-### Japan (MEXT)
+### 4. Japan (MEXT)
 
 https://www.mext.go.jp/en/
 https://www.aflsp.kyoto-u.ac.jp
 https://www.takemetojapan.com/english-uni-japan
 https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/
 
-### Taiwan (MOE)
+### 5. Taiwan (MOE)
 
 https://english.moe.gov.tw/cp-24-16833-23C09-1.html
 
-### Hagary (Stipendium Hungaricum)
+### 6. Hagary (Stipendium Hungaricum)
 
 https://stipendiumhungaricum.hu/
 
-### Netherlnds (Govt. Scholrships)
+### 7. Netherlnds (Govt. Scholrships)
 
-### Denmk (Govt. Scholrships)
+### 8. Denmk (Govt. Scholrships)
 
-### Norwy (Govt. Scholrships)
+### 9. Norway (Govt. Scholrships)
 
-### Turkey (Turkiye Burslari)
+### 10. Turkey (Turkiye Burslari)
 
 https://turkiyeburslari.gov.tr/
 
-### South Korea (KAIST)
+### 10. South Korea (KAIST)
 
 https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/kaist/
 
-### Romania 
+### 11. Romania 
 
 https://scholarships.studyinromania.gov.ro/
 
