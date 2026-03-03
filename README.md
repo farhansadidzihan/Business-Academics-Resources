@@ -54,6 +54,10 @@ https://stipendiumhungaricum.hu/
 
 ### 9. Norway (Govt. Scholrships)
 
+### Indonesia
+
+### Malaysia
+
 ### 10. Turkey (Turkiye Burslari)
 
 https://turkiyeburslari.gov.tr/
