@@ -13,7 +13,10 @@ https://tetr.com/
 ## Scholarships
 
 https://globalscholarships.com/scholarship-search/bachelors/full-funding/
+<br>
 https://www.isdb.org/scholarships
+
+[Global Scholarships](https://sites.google.com/view/globalscholarship/home?fbclid=IwdGRleAQVsi1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeJ8O7w5xYqN0f2pppOvWwg2LIjkTQZnfPVQWRqWZ0dWi4DL4ED9LDYvlnHhA_aem_RexxbCYerUfb-f-JkRMERg)
 
 ### 1. Canada
 
@@ -105,6 +108,8 @@ https://opportunitiespedia.com
 https://devpost.com/hackathons
 
 https://www.standoutsearch.com/
+
+https://projectconnectforum.com/Home
 
 https://www.freeconferencealerts.com/
 
